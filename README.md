@@ -1,8 +1,10 @@
 # goSimpleFTP
 
 ## Requirements
+
 Attacker:
 * Golang
+
 Victim:
 * Shell access
 
